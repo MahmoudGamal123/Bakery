@@ -1,0 +1,29 @@
+/******************General*********************/
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main-color{
+    color: #e65f78;
+}
+/************home*********/
+#home{
+    background-image: url(../image/hero-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+#home h1{
+    font-size: 60px;
+}
+#home p{
+    font-size: 30px;
+}
+/***********About***************/
+#about ul{
+    display: block;
+    margin: auto;
+    text-align: center;
+
+}
+#about li{
+    list-style-type:none;
+}
